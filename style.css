@@ -14,12 +14,7 @@ h1{
     margin-bottom: 0;
 }
 
-@media (max-width: 460px){
-    h1{
-        font-size: 2.4rem;
-        line-height: 1.2;
-    }
-}
+
 
 h3{
     font-size: 1.4rem;
